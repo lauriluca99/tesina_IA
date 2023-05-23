@@ -1,4 +1,4 @@
-# tesina_IA
+# Tesina_IA
 nel progetto git hub è presente:
 - il file Tesina_IA.pdf contenente la relazione del progetto
 - parte di codice per quanto riguarda gli algoritmi di Face Detection e Fece Comparison
